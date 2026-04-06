@@ -59,15 +59,6 @@ sou programador nivel **Junior**
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="left">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Marcelo-DevPythonSec23&show_icons=true&theme=tokyonight&count_private=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marcelo-DevPythonSec23&layout=compact&theme=tokyonight" />
-</p>
-
----
-
 ## 🚀 Filosofia 
 
 > _"Segurança não é sobre sistemas. É sobre entender e prever decisões.  
