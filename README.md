@@ -1,16 +1,80 @@
-## Hi there 👋
+# 👩🏿‍💻 Marcelo Silva 
 
-<!--
-**Marcelo-DevPythonSec23/Marcelo-DevPythonSec23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sobre mim
 
-Here are some ideas to get you started:
+Meu nome é **Marcelo Silva**, tenho 17 anos e concluí o ensino médio. Sou programador em Python, com foco em automação e **engenharia de software aplicada à cibersegurança**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Atuo na área de **segurança investigativa**, com conhecimentos em **OSINT** e **forense digital**, e atualmente estou aprofundando meus estudos em engenharia reversa. Também possuo base em **ciência de dados**.
+
+Sou apaixonado por tecnologia desde cedo e desenvolvi minhas habilidades de forma autodidata, com foco em aprendizado contínuo e aplicação prática.
+
+sou programador nivel **Junior**
+
+---
+
+## 🌐 Minhas redes sociais 
+
+<p align="left">
+  <a href="https://github.com/Marcelo-DevPythonSec23">
+    <img src="https://img.shields.io/badge/GitHub-Marcelo_Dev_Python_Sec-181717?style=for-the-badge&logo=github" />
+  </a>
+  <a href="https://www.tiktok.com/@skull._.is._.alive69">
+    <img src="https://img.shields.io/badge/TikTok-@BONES-000000?style=for-the-badge&logo=tiktok" />
+  </a>
+</p>
+
+---
+
+## 🧠 Minhas especialidades
+
+-   🏗️ Engenharia de sofware
+-   ⚡ Automações e costumização de tempo
+-   🧩 OSINT (open source intelligence)
+-   🔐 Segurança da informação
+-   🤖 Automação N8N e criação de agentes
+-   📊 Dashboards e analise
+
+---
+
+## 🛠️ ferramentas & tecnologias
+
+### Frontend
+
+![JavaScript](https://img.shields.io/badge/JavaScript-FFD43B?style=for-the-badge&logo=javascript&logoColor=000)
+
+### Backend
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+
+### DevOps & Tools
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
+![Insomnia](https://img.shields.io/badge/Insomnia-5849BE?style=for-the-badge&logo=insomnia)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma)
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
+
+---
+
+## 📊 GitHub Stats
+
+<p align="left">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=herbertcarnaubadesouza&show_icons=true&theme=tokyonight&count_private=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=herbertcarnaubadesouza&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+## 🚀 Filosofia 
+
+> _"Segurança não é sobre sistemas. É sobre entender e prever decisões.  
+> Eu não controlo com sistemas. Eu controlo com compreensão. Cada padrão é um sinal, cada anomalia uma oportunidade."_
+
+---
+
+⭐ Se você gostou do meu trabalho, considere dar uma estrela ao repositório
+
+🤝 Estou sempre aberto a colaborações, parcerias e ideias interessantes
